@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>http://104.196.99.250/website/info</loc>
+    </url><url>
+        <loc>http://104.196.99.250/web/reset_password</loc>
+    </url><url>
+        <loc>http://104.196.99.250/web/signup</loc>
+    </url><url>
+        <loc>http://104.196.99.250/web/login</loc>
+    </url><url>
+        <loc>http://104.196.99.250/</loc>
+    </url><url>
+        <loc>http://104.196.99.250/page/aboutus</loc>
+        <lastmod>2016-07-19</lastmod>
+    </url><url>
+        <loc>http://104.196.99.250/page/contactus</loc>
+        <lastmod>2016-07-19</lastmod>
+    </url>
+
+</urlset>

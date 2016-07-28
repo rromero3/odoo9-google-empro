@@ -1,0 +1,11 @@
+2016-07-24 15:02:56,966 1429 INFO bitnami_openerp openerp.addons.base.ir.ir_autovacuum: GC'd 0 user log entries
+2016-07-25 13:33:12,546 1456 INFO bitnami_openerp openerp.service.common: successful login from 'user@example.com' using database 'bitnami_openerp'
+2016-07-25 15:02:56,004 1429 INFO bitnami_openerp openerp.addons.base.ir.ir_autovacuum: GC'd 1 user log entries
+2016-07-26 15:02:53,694 1429 INFO bitnami_openerp openerp.addons.base.ir.ir_autovacuum: GC'd 0 user log entries
+2016-07-27 15:02:42,480 1429 INFO bitnami_openerp openerp.addons.base.ir.ir_autovacuum: GC'd 0 user log entries
+2016-07-28 00:45:02,508 1456 INFO bitnami_openerp openerp.service.common: successful login from 'user@example.com' using database 'bitnami_openerp'
+2016-07-28 01:11:33,188 1456 INFO bitnami_openerp openerp.addons.base.res.res_users: Login failed for db:bitnami_openerp login:user@example.com
+2016-07-28 01:11:38,344 1456 INFO bitnami_openerp openerp.addons.base.res.res_users: Login failed for db:bitnami_openerp login:user@example.com
+2016-07-28 01:11:43,288 1456 INFO bitnami_openerp openerp.addons.base.res.res_users: Login failed for db:bitnami_openerp login:user@example.com
+2016-07-28 01:11:50,660 1456 INFO bitnami_openerp openerp.addons.base.res.res_users: Login failed for db:bitnami_openerp login:user@example.com
+2016-07-28 01:12:46,263 1456 INFO bitnami_openerp openerp.service.common: successful login from 'user@example.com' using database 'bitnami_openerp'
